@@ -11,29 +11,29 @@ const Footer = () => {
 
                     <Grid.Col xs={12} sm={8} md={8} lg={8}>
                         
-                        <Text size="xl" weight={700} color="white" mb="10px">Simple Mantine template</Text>
+                        <Text size="xl" weight={700} color="white" mb="10px">Kaori Café</Text>
 
                         <Text color="white" mb="5px">
-                            You can do anything you want with this template, from portfolios to other stuff.
+                            Rejoint nous plus ont est fou plus ont rie
                         </Text>
 
                         <Text color="white" mb="20px">
-                            You can find the illustrations I used on <Anchor href="https://icons8.com/">www.icons8.com</Anchor>
+                            Tu peut nous rejoindre en cliquant <Anchor href="https://discord.gg/kaori">ici</Anchor>
                         </Text>
 
-                        <Button variant="white" color="black" onClick={() => redirectToLink('https://mantine.dev/')}>Check out Mantine</Button>
+                        <Button variant="white" color="black" onClick={() => redirectToLink('https://discord.gg/kaori')}>Rejoindre</Button>
                     </Grid.Col>
 
                     <Grid.Col xs={12} sm={4} md={4} lg={4}>
                         <Code color="yellow" style={{ display: 'flex', flexDirection: 'column', gap: 6, padding: 15 }}>
-                            Template made by
-                            <Anchor href="https://github.com/Giuseppetm">
+                            Nous contacter
+                            <Anchor href="https://discord.gg/kaori">
                                 <UnstyledButton>
                                     <Group>
-                                        <Avatar size={40} color="orange">GDC</Avatar>
+                                        <Avatar size={40} color="orange">KC</Avatar>
                                         <div>
                                             <Text>Giuseppetm</Text>
-                                            <Text size="xs" color="dimmed">giuseppe.delcampo@outlook.com</Text>
+                                            <Text size="xs" color="dimmed">strawofficiel@gmail.com</Text>
                                         </div>
                                     </Group>
                                 </UnstyledButton>
