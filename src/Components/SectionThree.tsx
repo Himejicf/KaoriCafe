@@ -13,9 +13,10 @@ const SectionThree = () => {
                     <Grid.Col xs={6} sm={8} md={8} lg={8}>
                         <div style={{ marginBottom: 20 }}>
                             <Text color="black">
-                                <Title order={1}>Put something here too</Title>
-                                Dennis Farina is unique among thespians in that he was one of the few to achieve success as a "late-bloomer." 
-                                He did not start acting until he was 37 years old, after stints in the military and 18 years on the Chicago Police Department.
+                                <Title order={1}>Raison de création.</Title>
+                                Vous avez déjà rejoint un serveur un serveur et vous avez remarquer que soit vous étiez ignorer ou juger celon vôtre statut sur le serveur?
+                                Nous souhaitons faire le contraire et voir tout le monde de façon égale.
+                                Un environnement amicale ou personne ne rabaisse l'autre ou le juge.
                             </Text>
                         </div>
                         <Button color="yellow">Tell me more</Button>
