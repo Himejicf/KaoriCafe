@@ -19,7 +19,7 @@ const SectionThree = () => {
                                 Un environnement amicale ou personne ne rabaisse l'autre ou le juge.
                             </Text>
                         </div>
-                        <Button color="yellow">Tell me more</Button>
+                        <Button color="yellow">M'en dire plus</Button>
                     </Grid.Col>
                 </Grid>
             </Container>
