@@ -20,11 +20,11 @@ const SectionOne = () => {
         <section id="section-one">
             <Container>
                 <Text color="black" align="center" mb="15px">
-                    <Title order={1}>Explain something in this carousel</Title>
+                    <Title order={1}>Présentation de la communauté</Title>
                 </Text>
 
                 <Text color="black" align="center" mb="25px">
-                    You can insert images or some texts if you need.
+                    Voici la présentation de nôtre communauté.
                 </Text>
 
                 <Carousel
@@ -44,37 +44,37 @@ const SectionOne = () => {
                     <Carousel.Slide>
                         <div style={carouselContent}>
                             <Title order={2}>1</Title>
-                            <Text>Write something here.</Text>
+                            <Text>Communauté accueillante.</Text>
                         </div>
                     </Carousel.Slide>
                     <Carousel.Slide>
                         <div style={carouselContent}>
                             <Title order={2}>2</Title>
-                            <Text>Something here too.</Text>
+                            <Text>Respectueuse des LGBTQIA+.</Text>
                         </div>
                     </Carousel.Slide>
                     <Carousel.Slide>
                         <div style={carouselContent}>
                             <Title order={2}>3</Title>
-                            <Text>Mh, maybe here too?</Text>
+                            <Text>Communauté non toxique.</Text>
                         </div>
                     </Carousel.Slide>
                     <Carousel.Slide>
                         <div style={carouselContent}>
                             <Title order={2}>4</Title>
-                            <Text>If you'd like to you could do that here...</Text>
+                            <Text>Activement et severement modérer</Text>
                         </div>
                     </Carousel.Slide>
                     <Carousel.Slide>
                         <div style={carouselContent}>
                             <Title order={2}>5</Title>
-                            <Text>Woah, you are quite convincing..</Text>
+                            <Text>Giveaways régulier.</Text>
                         </div>
                     </Carousel.Slide>
                     <Carousel.Slide>
                         <div style={carouselContent}>
                             <Title order={2}>6</Title>
-                            <Text>And we are done with the cards!</Text>
+                            <Text>Très amicale envers tous.</Text>
                         </div>
                     </Carousel.Slide>
                 </Carousel>
