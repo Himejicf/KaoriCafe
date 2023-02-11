@@ -7,7 +7,7 @@ const SectionFour = () => {
         <section id="section-four">
             <Container>
                 <Text color="black" align="center">
-                    <Title order={1} mb="30px">These cards are really nice</Title>
+                    <Title order={1} mb="30px">Raison de rejoindre</Title>
                 </Text>
 
                 <Grid>
@@ -18,18 +18,18 @@ const SectionFour = () => {
                             </Card.Section>
 
                             <Group position="apart" style={{ marginBottom: 5, marginTop: theme.spacing.sm }}>
-                                <Text weight={500}>History of Dennis Farina</Text>
+                                <Text weight={500}>Respect mutuelle</Text>
                                 <Badge color="yellow" variant="light">
-                                    Cool badge
+                                    Respect
                                 </Badge>
                             </Group>
 
                             <Text size="sm">
-                                Discover the career of Dennis Farina and his roles in movies!
+                                Une communauté respectueuse, amicale et où tu t'intégrera vite.
                             </Text>
 
                             <Button variant="light" color="yellow" fullWidth mt="14px">
-                                Find out
+                                Découvrez
                             </Button>
                         </Card>
                     </Grid.Col>
@@ -41,18 +41,18 @@ const SectionFour = () => {
                             </Card.Section>
 
                             <Group position="apart" style={{ marginBottom: 5, marginTop: theme.spacing.sm }}>
-                                <Text weight={500}>Career of Dennis Farina</Text>
+                                <Text weight={500}>Accueillant</Text>
                                 <Badge color="yellow" variant="light">
-                                    Cool badge 2
+                                    Accueil
                                 </Badge>
                             </Group>
 
                             <Text size="sm">
-                                Dennis Farina had a really great career with many opportunities!
+                                Nous sommes une communauté accueillante tu ne seras jamais mis de cotés.
                             </Text>
 
                             <Button variant="light" color="yellow" fullWidth mt="14px">
-                                Find out
+                                Découvrez
                             </Button>
                         </Card>
                     </Grid.Col>
@@ -64,18 +64,18 @@ const SectionFour = () => {
                             </Card.Section>
 
                             <Group position="apart" style={{ marginBottom: 5, marginTop: theme.spacing.sm }}>
-                                <Text weight={500}>Major roles of Dennis Farina</Text>
+                                <Text weight={500}>Actif</Text>
                                 <Badge color="yellow" variant="light">
-                                    Cool badge 3
+                                    Actif
                                 </Badge>
                             </Group>
 
                             <Text size="sm">
-                                Discover the major roles of Dennis Farina and something else!
+                                Nous sommes actif et activement modérer et beaucoup actif pendant les vacances.
                             </Text>
 
                             <Button variant="light" color="yellow" fullWidth mt="14px">
-                                Find out
+                                Découvrez
                             </Button>
                         </Card>
                     </Grid.Col>
