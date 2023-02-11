@@ -13,21 +13,21 @@ const About = () => {
 
                     <div style={{ marginBottom: 15 }}>
                         <Text transform="uppercase" weight={500} color="yellow">
-                            MADE WITH REACT AND MANTINE
+                            Bienvenue sur le site officiel Kaori Café
                         </Text>
                     </div>
 
                     <div style={{ marginBottom: 15 }}>
                         <Text>
                             <MediaQuery query="(max-width: 768px)" styles={{ fontSize: '2.8rem !important' }}>
-                                <h1 className="title">Simple Mantine Template</h1>
+                                <h1 className="title">Merci de vôtre visite</h1>
                             </MediaQuery>
                         </Text>
                     </div>
 
                     <div style={{ marginBottom: 25 }}>
                         <Text size="xl" color="black">
-                            Simple showcase of this powerful and well implemented library called <Anchor href="https://mantine.dev/">Mantine</Anchor>.
+                            Ce site est pour la communauté Discord <Anchor href="https://discord.gg/kaori">Kaori Café</Anchor>.
                         </Text>
                     </div>
 
