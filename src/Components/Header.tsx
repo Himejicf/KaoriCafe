@@ -12,7 +12,7 @@ const Header = () => {
         <header>
             <div className="content-desktop">
                 <div>
-                    <Badge size="lg" radius={10} color="yellow">A simple Mantine template</Badge>
+                    <Badge size="lg" radius={10} color="yellow">Kaori Café</Badge>
                 </div>
                 <div className="navbar">
                     <div className="navbar-item"><Link to="section-one" smooth duration={500}>Carousel</Link></div>
@@ -55,20 +55,20 @@ const Header = () => {
                         <div className="menu-items">
                             <Text>Contact</Text>
 
-                            <Anchor href="mailto:example@mail.com">
-                                example@mail.com
+                            <Anchor href="mailto:strawofficiel@gmail.com">
+                                strawofficiel@gmail.com
                             </Anchor>
                         </div>
 
                         <Code color="yellow" style={{ display: 'flex', flexDirection: 'column', gap: 6, padding: 15 }}>
-                            Template made by
-                            <Anchor href="https://github.com/Giuseppetm">
+                            Nous contacter
+                            <Anchor href="https://discord.gg/kaori">
                                 <UnstyledButton>
                                     <Group>
-                                        <Avatar size={40} color="orange">GDC</Avatar>
+                                        <Avatar size={40} color="orange">KC</Avatar>
                                         <div>
                                             <Text>Giuseppetm</Text>
-                                            <Text size="xs" color="dimmed">giuseppe.delcampo@outlook.com</Text>
+                                            <Text size="xs" color="dimmed">strawofficiel@gmail.com</Text>
                                         </div>
                                     </Group>
                                 </UnstyledButton>
